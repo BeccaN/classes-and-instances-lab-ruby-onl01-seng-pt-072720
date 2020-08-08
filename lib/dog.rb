@@ -1,5 +1,5 @@
 class Dog 
-  fido = "Fido"
+  fido = 
   snoopy = 
   lassie = 
 end 
